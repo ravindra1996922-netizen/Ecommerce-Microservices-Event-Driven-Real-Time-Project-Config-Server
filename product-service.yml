@@ -12,8 +12,8 @@ spring:
     database-platform: org.hibernate.dialect.MySQLDialect
 
 aws:
-  access-key-id: YOUR_ACCESS_KEY
-  secret-key: YOUR_SECRET_KEY
+  access-key-id: AKIAWQJ6G3WSTTLBTUWV
+  secret-key: VrnUNsqQT58dBrX331pRHH9nCV8YNDajzjcI7RLn
   region: us-east-1
 
   s3:
